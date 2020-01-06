@@ -1,2 +1,2 @@
 # isPalindrome
-Determining if a string is a palindrome using a stack and queue implementation. 
+Determining if a string is a palindrome using a stack and queue implementation in Python. 
