@@ -1,11 +1,6 @@
-""" 
-Stephanie Schofield
-CIS 313 Fall 2019
-Daniel Lowd
-October 27, 2019
+# Stephanie Schofield - University of Oregon Clark Honors College - 2019
 
-Determining if a string is a palindrome using a stack and queue. Implementation in python 3.
-"""
+# Determining if a string is a palindrome using a stack and queue. Implementation in python 3.
 
 class Node(object):
     def __init__(self, data = None, next = None):
