@@ -143,10 +143,3 @@ def isPalindrome(s):
             return False
     else:
         return True
-
-    ## Helper function ##
-    #print("stack data")
-    #myStack.printStack()
-
-    #print("queue data")
-    #myQueue.printQueue()
